@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiheon0411&count_bg=%23000000&title_bg=%23D31616&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Siheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=siheon0411)]
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411)](https://solved.ac/siheon0411/)
+
 <!--
 **siheon0411/siheon0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
