@@ -4,13 +4,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/siheon0411/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact" alt="GitHub Stats" width="305px">
+      <a href="https://solved.ac/siheon0411">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="350px">
       </a>
     </td>
     <td>
-      <a href="https://solved.ac/siheon0411">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="350px">
+      <a href="https://github.com/siheon0411/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact" alt="GitHub Stats" width="308px">
       </a>
     </td>
   </tr>
