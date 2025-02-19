@@ -5,7 +5,7 @@
   <tr>
     <td>
       <a href="https://github.com/siheon0411/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&langs_count=3" alt="GitHub Stats" width="245px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact" alt="GitHub Stats" width="305px">
       </a>
     </td>
     <td>
