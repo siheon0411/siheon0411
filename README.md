@@ -10,7 +10,7 @@
     </td>
     <td>
       <a href="https://github.com/siheon0411/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact" alt="GitHub Stats" width="308px">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos" alt="GitHub Stats" width="308px">
       </a>
     </td>
   </tr>
