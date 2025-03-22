@@ -28,15 +28,14 @@ specializing in **Backend Development** & **Flutter App Development**
 
 ## 💻 Tech Stack
 
-👨‍💻 Language  
+### 👨‍💻 Language  
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=unity&logoColor="/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 </p>
 
-🧱 Framework  
+### 🧱 Framework  
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
@@ -44,13 +43,13 @@ specializing in **Backend Development** & **Flutter App Development**
   <img src="https://img.shields.io/badge/ReactNative-222222?style=flat-square&logo=React&logoColor="/>
 </p>
 
-📚 Library  
+### 📚 Library  
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-🛠️ ETC  
+### 🛠️ ETC  
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor="/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
@@ -60,7 +59,7 @@ specializing in **Backend Development** & **Flutter App Development**
 </p>
 <br>
 
-## 📊 Stats & Hits
+## 📊 Stats
 
 <p align="left">
   <a href="https://hits.seeyoufarm.com">
@@ -68,25 +67,14 @@ specializing in **Backend Development** & **Flutter App Development**
   </a>
 </p>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://solved.ac/siheon0411">
-        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="350px">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/siheon0411/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos" alt="GitHub Stats" width="308px">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://solved.ac/siheon0411">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="350px">
+  </a>
+</p>
 
----
-
-<div align="center">
-
-✨ Thank you for visiting! Let's connect and build awesome things together. 🚀
-
-</div>
+<p align="left">
+  <a href="https://github.com/siheon0411/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos" alt="GitHub Stats" width="308px">
+  </a>
+</p>
