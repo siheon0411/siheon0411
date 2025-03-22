@@ -1,11 +1,13 @@
-<!-- <div align="center"> -->
+<!-- 
+<div align="center">
 
-  <!-- Header with animated wave background -->
-<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8AE68A,100:2C5364&height=150&section=header&text=👋%20Hi%20there!%20Welcome%20to%20my%20Github&fontAlign=50&fontSize=40&animation=fadeIn" />-->
+Header with animated wave background
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8AE68A,100:2C5364&height=150&section=header&text=👋%20Hi%20there!%20Welcome%20to%20my%20Github&fontAlign=50&fontSize=40&animation=fadeIn" />
 
-<!-- </div> -->
+</div> 
+-->
 
-
+<!--
 ## 🧑‍💻 About Me
 I'm a **Full-Stack Developer**,  
 specializing in **Backend Development** & **Flutter App Development**
@@ -58,6 +60,77 @@ specializing in **Backend Development** & **Flutter App Development**
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 <br>
+-->
+
+
+<table>
+  <tr>
+    <!-- 왼쪽 -->
+    <td valign="top" width="50%">
+
+## 🧑‍💻 About Me
+I'm a **Full-Stack Developer**,  
+specializing in **Backend Development** & **Flutter App Development**
+
+### 🎓 Education  
+- Seoul National University of Science and Technology, ITM 
+  (2019.03 ~ 2025.02)  
+- Northumbria University, ITM <br>
+  (2019.03 ~ 2025.02, Dual Degree)
+
+### 💼 Experience  
+- LG U+ Ureca SW Camp, Backend Developer <br>
+  (2025.01 ~ )
+
+### 🌟 Activities  
+- Computer Vision Lab  
+- Haptics Lab  
+- HCI Lab  
+
+</td>
+
+<!-- 오른쪽 -->
+<td valign="top" width="50%">
+
+## 💻 Tech Stack
+
+### 👨‍💻 Language  
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=unity&logoColor=white"/>
+</p>
+
+### 🧱 Framework  
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReactNative-222222?style=flat-square&logo=React&logoColor=white"/>
+</p>
+
+### 📚 Library  
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+### 🛠️ ETC  
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+</p>
+
+</td>
+  </tr>
+</table>
+
+
+
+
 
 ## 📊 Stats
 
