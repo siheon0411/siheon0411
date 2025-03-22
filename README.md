@@ -16,7 +16,7 @@ specializing in **Backend Development** & **Flutter App Development**
 
 
 ### 💼 Experience  
-- LG U+ Ureca SW Camp, Backend Developer (2025.02 ~ )
+- LG U+ Ureca SW Camp, Backend Developer (2025.01 ~ )
 
 
 ### 🌟 Activities  
