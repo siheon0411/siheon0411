@@ -67,13 +67,12 @@ specializing in **Backend Development** & **Flutter App Development**
   </a>
 </p>
 
-<p align="left">
-  <a href="https://solved.ac/siheon0411">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="350px">
-  </a>
-</p>
 
 <p align="left">
+  <a href="https://solved.ac/siheon0411">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=siheon0411" alt="Solved.ac Profile" width="300px">
+  </a>
+  
   <a href="https://github.com/siheon0411/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siheon0411&layout=compact&bg_color=0d1117&text_color=ffffff&hide_border=true&langs_count=4&exclude_repo=Deep-Learning,dayme,OS-pintos" alt="GitHub Stats" width="308px">
   </a>
