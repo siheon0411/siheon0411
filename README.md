@@ -6,23 +6,23 @@
 <!-- </div> -->
 
 
-## 👋 About Me
-- 🧑‍💻 I'm a **Full-Stack Developer**  
-- ⚙️ Specializing in **Spring Backend** & **Flutter Mobile App Development**
+## 🧑‍💻 About Me
+I'm a **Full-Stack Developer**,  
+specializing in **Backend Development** & **Flutter App Development**
 
 ### 🎓 Education  
-- 🎓 Seoul National University of Science and Technology, ITM (2019.03. ~ 2025.02)
-- 🎓 Northumbria University, ITM (2019.03. ~ 2025.02, Dual Degree)
+- Seoul National University of Science and Technology, ITM (2019.03 ~ 2025.02)
+- Northumbria University, ITM (2019.03 ~ 2025.02, Dual Degree)
 
 
 ### 💼 Experience  
-- 💻 LG U+ Ureca, Backend (2025.02 ~ )
+- LG U+ Ureca SW Camp, Backend Developer (2025.02 ~ )
 
 
 ### 🌟 Activities  
-- 🧠 Computer Vision Lab
-- 🚀 Haptics Lab
-- 🗣️ HCI Lab
+- Computer Vision Lab
+- Haptics Lab
+- HCI Lab
 
 <br>
 
