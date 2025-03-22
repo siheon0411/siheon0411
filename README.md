@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center"> -->
 
   <!-- Header with animated wave background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8AE68A,100:2C5364&height=250&section=header&text=Hi%20there%20👋&fontAlign=50&fontSize=40&animation=fadeIn" />
+<!--  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8AE68A,100:2C5364&height=150&section=header&text=👋%20Hi%20there!%20Welcome%20to%20my%20Github&fontAlign=50&fontSize=40&animation=fadeIn" />-->
 
-</div>
+<!-- </div> -->
 
 
 ## 👋 About Me
@@ -28,33 +28,32 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Language  
+👨‍💻 Language  
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=unity&logoColor="/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
 </p>
 
-### 🧱 Framework  
+🧱 Framework  
 <p>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor="/>
+  <img src="https://img.shields.io/badge/ReactNative-222222?style=flat-square&logo=React&logoColor="/>
 </p>
 
-### 📚 Library  
+📚 Library  
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### 🛠️ ETC  
+🛠️ ETC  
 <p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor="/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
