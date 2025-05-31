@@ -70,7 +70,7 @@ specializing in **Backend Development** & **Flutter App Development**
 
 ## 🧑‍💻 About Me
 I'm a **Full-Stack Developer**,  
-specializing in **Backend Development** & **Flutter App Development**
+specializing in **Backend Development** & **App Development**
 
 ### 🎓 Education  
 - Seoul National University of Science and Technology, ITM 
