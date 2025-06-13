@@ -83,9 +83,9 @@ specializing in **Backend Development** & **App Development**
   (2025.01 ~ )
 
 ### 🌟 Activities  
-- Computer Vision Lab  
-- Haptics Lab  
-- HCI Lab  
+- Computer Vision Lab @Korea University
+- Haptics Lab @POSTECH
+- HCI Lab @Seoultech
 
 </td>
 
