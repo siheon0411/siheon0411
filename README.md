@@ -79,7 +79,7 @@ specializing in **Backend Development** & **App Development**
   (2019.03 ~ 2025.02, Dual Degree)
 
 ### 💼 Experience  
-- LG U+ Ureca SW Camp, Backend Developer <br>
+- LG U+ Ureca SW Academy, Backend Developer <br>
   (2025.01 ~ )
 
 ### 🌟 Activities  
