@@ -80,7 +80,7 @@ specializing in **Backend Development** & **App Development**
 
 ### 💼 Experience  
 - LG U+ Ureca SW Academy, Backend Developer <br>
-  (2025.01 ~ )
+  (2025.01 ~ 2025.06)
 
 ### 🌟 Activities  
 - Computer Vision Lab @Korea University
