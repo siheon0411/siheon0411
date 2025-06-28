@@ -76,7 +76,7 @@ specializing in **Backend Development** & **App Development**
 - Seoul National University of Science and Technology, ITM 
   (2019.03 ~ 2025.02)  
 - Northumbria University, ITM <br>
-  (2019.03 ~ 2025.02, Dual Degree)
+  (2019.03 ~ 2025.05, Dual Degree)
 
 ### 💼 Experience  
 - LG U+ Ureca SW Academy, Backend Developer <br>
