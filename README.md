@@ -78,11 +78,14 @@ specializing in **Backend Development** & **App Development**
 - Northumbria University, ITM <br>
   (2019.03 ~ 2025.05, Dual Degree)
 
-### 💼 Experience  
+### 💼 Experience
+- Samsung Life Insurance, IT Engineer <br>
+  (2025.07 ~ )
+
+
+### 🌟 Activities
 - LG U+ Ureca SW Academy, Backend Developer <br>
   (2025.01 ~ 2025.06)
-
-### 🌟 Activities  
 - Computer Vision Lab @Korea University
 - Haptics Lab @POSTECH
 - HCI Lab @Seoultech
