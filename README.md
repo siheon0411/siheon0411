@@ -124,7 +124,9 @@ specializing in **Backend Development** & **App Development**
 ### ☁️ Infra / DevOps  
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Actions-333333?style=flat&logo=github-actions?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
+
 
 </td>
 
