@@ -79,7 +79,7 @@ specializing in **Backend Development** & **App Development**
   (2019.03 ~ 2025.05, Dual Degree)
 
 ### 💼 Experience
-- Samsung Life Insurance, IT Engineer <br>
+- Samsung Life Insurance, IT Specialist <br>
   (2025.07 ~ )
 
 
