@@ -80,7 +80,7 @@ specializing in **Backend Development** & **App Development**
 
 ### 💼 Experience
 - Samsung Life Insurance, IT Specialist <br>
-  (2025.07 ~ )
+  (2025.07 ~ Present)
 
 
 ### 🌟 Activities
