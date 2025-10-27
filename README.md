@@ -73,10 +73,13 @@ I'm a **Full-Stack Developer**,
 specializing in **Backend Development** & **App Development**
 
 ### 🎓 Education  
-- Seoul National University of Science and Technology, ITM 
-  (2019.03 ~ 2025.02)  
-- Northumbria University, ITM <br>
+- Northumbria University <br>
+  BS, Information Technology Management <br>
   (2019.03 ~ 2025.05, Dual Degree)
+- Seoul National University of Science and Technology <br>
+  BE, IT Management (ITM) <br>
+  (2019.03 ~ 2025.02)  
+
 
 ### 💼 Experience
 - Samsung Life Insurance, IT Specialist <br>
