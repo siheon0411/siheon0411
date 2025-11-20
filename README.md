@@ -72,6 +72,11 @@ specializing in **Backend Development** & **Flutter App Development**
 I'm a **Full-Stack Developer**,  
 specializing in **Backend Development** & **App Development**
 
+### 💼 Experience
+- Samsung Life Insurance, IT Specialist <br>
+  (2025.07 ~ Present)
+
+
 ### 🎓 Education  
 - Northumbria University <br>
   BS, Information Technology Management <br>
@@ -79,11 +84,6 @@ specializing in **Backend Development** & **App Development**
 - Seoul National University of Science and Technology <br>
   BE, IT Management (ITM) <br>
   (2019.03 ~ 2025.02)  
-
-
-### 💼 Experience
-- Samsung Life Insurance, IT Specialist <br>
-  (2025.07 ~ Present)
 
 
 ### 🌟 Activities
