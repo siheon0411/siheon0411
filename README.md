@@ -114,6 +114,7 @@ specializing in **Backend Development** & **App Development**
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Native-222222?style=flat-square&logo=React&logoColor=white"/>
+  <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge/">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
