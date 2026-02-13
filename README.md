@@ -73,7 +73,7 @@ I'm a **Full-Stack Developer**,
 specializing in **Backend Development** & **App Development**
 
 ### 💼 Experience
-- Samsung Life Insurance, IT Specialist <br>
+- Samsung Life Insurance, IT Infra Specialist <br>
   (2025.07 ~ Present)
 
 
